@@ -12,24 +12,50 @@ Serene was created from this idea: to build a study application that is **direct
 . ݁₊ ⊹ . ݁˖ . ݁ FEATURES: . ݁₊ ⊹ . ݁˖ . ݁
 
 ✰ Study session tracking
+
 ✰ Progress visualization
+
 ✰ Study organization and goals
+
 ✰ Simple and focused user experience
+
 
 . ݁₊ ⊹ . ݁˖ . ݁ DESIGN. ݁₊ ⊹ . ݁˖ . ݁ 
 
 The interface was inspired by the Windows Vista / Frutiger Aero aesthetic, using soft gradients, translucent elements, glossy buttons, and blue-green tones to create a calm and welcoming environment. The visual style draws from a time when technology was often presented as a bright, optimistic vision of the future.
+
  ݁₊ ⊹ . ݁˖ . ݁ TECHNOLOGIES ₊ ⊹ . ݁˖ . ݁ 
  
 ✰ Kotlin
+
 ✰ Android
+
 ✰ Android Studio
+
 ✰ Gradle
+
 ✰ XML
+
 
 ₊ ⊹ . ݁˖ . ݁ PROJECT₊ ⊹ . ݁˖ . ݁ 
 
 Serene began as a university project, but it quickly grew into something much more personal. What started as an academic assignment **became a passion project**, an opportunity to explore mobile application development, interface design, and software quality while building something I genuinely care about.
 More than just a study tracker, Serene is an experiment in creating software that respects the user's attention: software that is useful without being overwhelming, and engaging without demanding to be constantly engaged with.
+
+₊ ⊹ . ݁˖ . ݁ CURRENT STATUS₊ ⊹ . ݁˖ . ݁ 
+
+Serene is currently **under active development.**
+The current version focuses on the core interface and study organization experience, while the project continues to evolve both technically and visually.
+
+₊ ⊹ . ݁˖ . NEXT STEPS ₊ ⊹ . ݁˖ . ݁ 
+Some of the features and improvements planned for future versions include:
+
+✰ **Persistent data storage** for study sessions and progress
+
+✰ A built-in Pomodoro timer
+
+✰ Study goals and objectives
+
+✰ More detailed progress tracking
 
 *DEVELOPED BY **NANA** ⋆˚࿔*
