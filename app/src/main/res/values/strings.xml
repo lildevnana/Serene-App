@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">serene</string>
+    <!-- Saudações do topo da tela-->
+    <string name="greeting_morning">Bom dia!</string>
+    <string name="greeting_afternoon"> Boa tarde!</string>
+    <string name="greeting_night">Boa noite!</string>
+    <string name="banner_date">Sexta-feira, 13 de Junho</string>
+
+<!--    titulos cards home -->
+<string name="section_recent">Progresso</string>
+<string name="section_progress">Atividades recentes</string>
+
+    <!-- Home: stats - tracker pontual diario e semanal -->
+    <string name="label_today">Hoje</string>
+    <string name="label_week">Semana</string>
+    <string name="stat_sub_today">de estudo</string>
+    <string name="stat_sub_week">acumuladas</string>
+    <string name="stat_default">0h</string>
+
+    <!-- Matérias do protótipo pra aparecerem no cardzinho -->
+    <string name="subject_calculus">Cálculo I</string>
+    <string name="subject_physics">Física I</string>
+    <string name="subject_algebra">Álgebra I</string>
+
+    <!-- Porcentagens de progresso pra cada materia pra aparecerem no cardzinho do prototipo -->
+    <string name="progress_calculus">68%</string>
+    <string name="progress_physics">42%</string>
+    <string name="progress_algebra">100%</string>
+
+    <!-- Card de materias recentes-->
+    <string name="recent_activities">Atividades Recentes</string>
+    <string name="recent_calculus">1h 10 min</string>
+    <string name="recent_physics">2h 00 min </string>
+    <string name="recent_algebra">2h 30 min</string>
+    <string name="activity_calculus">Hoje, 14:00</string>
+    <string name="activity_physics">Ontem, 19:00</string>
+    <string name="activity_algebra">Qua, 16:30</string>
+
+
+    <!-- Botão principal -->
+    <string name="btn_register">+ Registrar atividade de estudo</string>
+
+    <!-- Cadastro.. campos e hints e botao -->
+    <string name="page_title">Registrar Atividade de Estudo</string>
+    <string name="field_subject">Disciplina</string>
+    <string name="field_date">Data</string>
+    <string name="field_time">Horário</string>
+    <string name="field_duration">Duração</string>
+    <string name="hint_time">Ex: 14:00</string>
+    <string name="hint_date">Ex: 13/06/2023</string>
+    <string name="hint_subject">Ex: Cálculo II</string>
+    <string name="hint_duration">Ex: 1h 30min</string>
+    <string name="btn_save">Salvar atividade</string>
+    <string name="btn_back_description">Voltar</string>
+    <string name="section_activity">Atividade</string>
+
+    <!-- Feedback/resposta do cadastro / sucess e errors -->
+    <string name="msg_saved">Atividade salva!</string>
+    <string name="error_subject">Informe a disciplina</string>
+    <string name="error_duration">Informe a duração</string>
+    <string name="error_date">Informe a data</string>
+    <string name="error_time">Informe o horário</string>
+</resources>

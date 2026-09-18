@@ -1,0 +1,53 @@
+
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape>
+        <gradient
+            android:type="linear"
+            android:angle="270"
+            android:startColor="#28B878"
+            android:endColor="#1E88E5" />
+
+    </shape>
+</item>
+    <!-- faixa diagonal centralizada -->
+    <item
+        android:left="-100dp"
+        android:right="-100dp"
+        android:top="-100dp"
+        android:bottom="-100dp">
+        <rotate
+            android:fromDegrees="-15"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape>
+                <gradient
+                    android:type="linear"
+                    android:angle="0"
+                    android:startColor="#00FFFFFF"
+                    android:centerColor="#38FFFFFF"
+                    android:endColor="#00FFFFFF" />
+            </shape>
+        </rotate>
+    </item>
+<!-- shine -->
+<item android:bottom="100dp">
+    <shape>
+        <gradient
+            android:type="linear"
+            android:angle="270"
+            android:startColor="#45FFFFFF"
+            android:endColor="#00FFFFFF" />
+    </shape>
+</item>
+    <item android:bottom="-6dp">
+        <shape>
+            <gradient
+                android:angle="270"
+                android:startColor="#33000000"
+                android:endColor="#00000000"/>
+        </shape>
+    </item>
+</layer-list>
+

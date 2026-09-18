@@ -1,0 +1,39 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- FUNDO (trilho) -->
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="10dp"/>
+            <solid android:color="#20FFFFFF"/>
+        </shape>
+    </item>
+
+    <!-- PROGRESSO -->
+    <item android:id="@android:id/progress">
+        <scale android:scaleWidth="100%">
+            <layer-list>
+
+                <!-- COR BASE (vai ser sobrescrita depois) -->
+                <item>
+                    <shape>
+                        <corners android:radius="10dp"/>
+                        <solid android:color="#48C8F0"/>
+                    </shape>
+                </item>
+
+                <!-- HIGHLIGHT -->
+                <item android:bottom="3dp">
+                    <shape>
+                        <corners android:radius="10dp"/>
+                        <gradient
+                            android:angle="270"
+                            android:startColor="#80FFFFFF"
+                            android:endColor="#00FFFFFF"/>
+                    </shape>
+                </item>
+
+            </layer-list>
+        </scale>
+    </item>
+
+</layer-list>

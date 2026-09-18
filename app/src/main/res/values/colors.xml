@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Backgrounds -->
+    <color name="bg_start">#C5E8F5</color>
+    <color name="bg_end">#B2E8D2</color>
+
+    <!-- Blues -->
+    <color name="blue_dark">#1A5A8A</color>
+    <color name="blue_medium">#2A7AAA</color>
+    <color name="blue_light">#6AAAC8</color>
+    <color name="blue_accent">#48C8F0</color>
+    <color name="purple_start">#B888F0</color>
+
+    <!-- Greens -->
+    <color name="green_dark">#1A6040</color>
+    <color name="green_accent">#28B878</color>
+
+<!--    topbar-->
+    <color name="top_start">#AA5FAFD6</color>
+    <color name="top_end">#AA3F8FB5</color>
+    <!-- Card e inputs -->
+    <color name="card_bg">#B3FFFFFF</color>
+<!--    // cor do texto placeholder nos campos de formulário:-->
+    <color name="input_hint">#9AC8DE</color>
+
+</resources>
